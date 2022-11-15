@@ -1,5 +1,17 @@
 <resources>
-    <string name="app_name">Practiceproject</string>
+    <string name="app_name" translatable="false">Practiceproject</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="ingredient">Ingredient :</string>
+    <string name="nutrition">Nutrition :</string>
+    <string name="calories">Calories</string>
+    <string name="oing1"> - 3 large eggs </string>
+    <string name="oing2"> - 1 tablespoon milk</string>
+    <string name="oing3"> - Salt and freshly ground white pepper to taste</string>
+    <string name="oing4"> - 2 tablespoons butter</string>
+    <string name="oing5"> - ¼ cup shredded Emmentaler cheese</string>
+    <string name="steps">Steps :</string>
+    <string name="ostep1">- Whisk eggs in a bowl; add milk and season with salt and white pepper. Whisk until egg mixture is foamy, 2 to 3 minutes.</string>
+    <string name="ostep2">- Melt butter in a small, nonstick skillet over medium-low heat. Pour in egg mixture and swirl the skillet, so the bottom is evenly covered with egg. Cook until egg starts to set, about 1 minute. Lift edges with a spatula and tilt the skillet so uncooked egg can flow towards the bottom of the skillet to set. Repeat until no visible liquid egg remains.</string>
+    <string name="ostep3">- Carefully flip omelette; cook until warmed through, 30 seconds to 1 minute. Sprinkle Emmentaler cheese down the middle of omelette; fold in half. Cook until cheese is melted, about 20 seconds. Slide omelette onto a plate.</string>
 </resources>

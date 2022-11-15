@@ -29,7 +29,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="@font/arvo_bold"
-                    android:text="Cook"
+                    android:text="Magic Box"
                     android:textAlignment="center"
                     android:textColor="#6D289F"
                     android:textSize="48sp" />

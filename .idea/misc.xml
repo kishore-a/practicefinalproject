@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/activity_main.xml" value="0.4453860640301318" />
+        <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/activity_omelette.xml" value="0.264" />
+        <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/fragment_blank.xml" value="0.25" />
         <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/fragment_blank1.xml" value="0.24635416666666668" />
       </map>
     </option>
