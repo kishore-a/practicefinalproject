@@ -1,5 +1,6 @@
 package com.example.practiceproject
 
+import android.annotation.SuppressLint
 import android.content.ContentValues.TAG
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -11,10 +12,12 @@ import java.io.File
 
 class MainActivity : AppCompatActivity() {
 
+    @SuppressLint("WrongViewCast")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val image= findViewById<ImageView>(R.id.imageView10)
+
         image.setOnClickListener {
             Log.i(TAG,"Hello from omelette")
             val intent = Intent(this, Omelette::class.java)

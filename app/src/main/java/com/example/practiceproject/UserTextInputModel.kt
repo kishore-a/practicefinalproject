@@ -1,6 +1,10 @@
 package com.example.practiceproject
 
+import android.content.ContentValues.TAG
 import android.content.Context
+import android.util.Log
+import android.widget.EditText
+import android.widget.TextView
 import java.io.File
 
 class UserTextInputModel(_context: Context) {
@@ -11,12 +15,13 @@ class UserTextInputModel(_context: Context) {
     return File(this.context.filesDir,this.textFileName)
     }
 
-    fun saveText(s: String){
+    fun saveText(s: EditText){
         val file=this.makeFile()
         file.delete()
-        file.writeText(s)
+        file.writeText(s.toString())
     }
     fun loadText(): String {
+        Log.i(TAG,"Came to userTextInput")
         val file=this.makeFile()
         var s=""
         if(file.exists()){
@@ -24,4 +29,5 @@ class UserTextInputModel(_context: Context) {
         }
         return s
     }
+
 }
