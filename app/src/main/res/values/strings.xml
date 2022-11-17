@@ -2,6 +2,7 @@
     <string name="app_name" translatable="false">Practiceproject</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="addcomments">Add Comments</string>
     <string name="ingredient">Ingredient :</string>
     <string name="nutrition">Nutrition :</string>
     <string name="calories">Calories</string>
@@ -14,4 +15,23 @@
     <string name="ostep1">- Whisk eggs in a bowl; add milk and season with salt and white pepper. Whisk until egg mixture is foamy, 2 to 3 minutes.</string>
     <string name="ostep2">- Melt butter in a small, nonstick skillet over medium-low heat. Pour in egg mixture and swirl the skillet, so the bottom is evenly covered with egg. Cook until egg starts to set, about 1 minute. Lift edges with a spatula and tilt the skillet so uncooked egg can flow towards the bottom of the skillet to set. Repeat until no visible liquid egg remains.</string>
     <string name="ostep3">- Carefully flip omelette; cook until warmed through, 30 seconds to 1 minute. Sprinkle Emmentaler cheese down the middle of omelette; fold in half. Cook until cheese is melted, about 20 seconds. Slide omelette onto a plate.</string>
+    <string name="aing1" translatable="false">- 2 (9") pie crusts</string>
+    <string name="aing2" translatable="false">- 7 large Granny Smith apples</string>
+    <string name="aing3" translatable="false">- ½ cup granulated sugar</string>
+    <string name="aing4" translatable="false">- ½ cup light brown sugar</string>
+    <string name="aing5" translatable="false">- 2 tablespoons all-purpose flour</string>
+    <string name="aing6" translatable="false">- 1 teaspoon ground cinnamon</string>
+    <string name="aing7" translatable="false">- ⅛ teaspoon ground nutmeg</string>
+    <string name="aing8" translatable="false">- 1 tablespoon lemon juice</string>
+    <string name="aing9" translatable="false">- 1 large egg</string>
+    <string name="astep1" translatable="false">- Start by preparing this flaky pie crust recipe which makes 2 (9") pie crusts, one for the bottom and one for the top of the pie. The pie dough will need to chill for at least 1 hour before rolling out. Or use a store-bought pie crust and follow package directions.</string>
+    <string name="astep2" translatable="false">- Place oven rack in the center position and Preheat the oven to 400°F (204°C).
+</string>
+    <string name="astep3" translatable="false">- In a large bowl, combine the sliced apples, granulated sugar, light brown sugar, flour, cinnamon, nutmeg, and lemon juice and lemon zest; toss to coat evenly.</string>
+    <string name="astep4" translatable="false">- Remove the pie crust dough from the fridge and let rest at room temperature for 5-10 minutes. On a lightly floured surface, roll one disc into a 12" circle that is ⅛" thick. Carefully lay the crust into the bottom of a deep dish pie plate.</string>
+    <string name="astep5" translatable="false"></string>
+    <string name="asetp6" translatable="false">- Spoon the apple filling over the bottom crust and discard juices at the bottom of the bowl. Roll out the second disc of pie crust until it is ⅛" thick and lay it over the apple filling.</string>
+    <string name="astep7" translatable="false"></string>
+    <string name="astep8" translatable="false">- Use a sharp knife to trim the dough along the outside edge of the pie plate. Lift the edges where the two pie crust meet, gently press to seal and fold them under. Rotate the pie plate and repeat this process until edges are neatly tucked under themselves. Cut 4 slits in the top of the dough to allow steam to vent. Place the pie on a baking sheet.</string>
+    <string name="astep9" translatable="false">- Bake at 400°F (204°C) for 25 minutes. Carefully remove the pie shield, turn the oven down to 375° and continue to bake for an additional 30-35 minutes or until the top is golden brown and the juices are bubbly. Cool at room temperature for at least 3 hours.</string>
 </resources>

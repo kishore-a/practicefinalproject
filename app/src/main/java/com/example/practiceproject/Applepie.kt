@@ -1,22 +1,19 @@
 package com.example.practiceproject
 
-import android.content.ContentValues.TAG
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 
-class Omelette : AppCompatActivity() {
-
-    private lateinit var comment:TextView
-    private lateinit var buttonsaved:Button
+class Applepie : AppCompatActivity() {
+    private lateinit var comment: TextView
+    private lateinit var buttonsaved: Button
     private var textInputModel:UserTextInputModel=UserTextInputModel(this)
-    private lateinit var comments:EditText
+    private lateinit var comments: EditText
 
     private fun loadthetext(){
-        this.comment.text=this.textInputModel.loadText()
+        comment.text=textInputModel.loadText()
     }
     private fun savethetext(s:String){
         this.textInputModel.saveText(s)
@@ -33,18 +30,11 @@ class Omelette : AppCompatActivity() {
     }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_omelette)
+        setContentView(R.layout.activity_applepie)
         buttonsaved=findViewById(R.id.buttontest)
         comment=findViewById(R.id.comment)
         comments=findViewById(R.id.commentinp)
         this.loadthetext()
         this.setupCallbacks()
-
-
     }
-
-
-
-//
-
 }

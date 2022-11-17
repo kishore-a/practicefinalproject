@@ -96,7 +96,8 @@
                             android:layout_height="136dp"
                             android:layout_weight="1"
                             android:clickable="true"
-                            app:srcCompat="@drawable/apple_pie" />
+                            app:srcCompat="@drawable/apple_pie"
+                            tools:ignore="SpeakableTextPresentCheck" />
 
                         <TextView
                             android:id="@+id/textView7"
@@ -217,6 +218,12 @@
     android:id="@id/fragmentcarasouel2"
     android:name="com.example.practiceproject.BlankFragmentcarosouel2"
     tools:layout="@layout/fragment_blank_fragmentcarosouel2" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Click for App Description Video" />
 
 
         </LinearLayout>

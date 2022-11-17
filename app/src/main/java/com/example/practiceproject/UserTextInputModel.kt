@@ -15,17 +15,21 @@ class UserTextInputModel(_context: Context) {
     return File(this.context.filesDir,this.textFileName)
     }
 
-    fun saveText(s: EditText){
+    fun saveText(s: String){
         val file=this.makeFile()
         file.delete()
-        file.writeText(s.toString())
+        Log.i(TAG,"File created")
+        file.writeText(s)
     }
     fun loadText(): String {
         Log.i(TAG,"Came to userTextInput")
         val file=this.makeFile()
         var s=""
         if(file.exists()){
+
+            Log.i(TAG,"Printing from the File")
             s=file.readText()
+            println(s)
         }
         return s
     }

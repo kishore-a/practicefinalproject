@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="addcomments">Füge Kommentare hinzu</string>
     <string name="ingredient">Inhaltsstoff</string>
     <string name="nutrition">Ernährung :</string>
     <string name="calories">Kalorien</string>
