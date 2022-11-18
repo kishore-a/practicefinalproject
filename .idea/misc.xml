@@ -8,12 +8,15 @@
         <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/font/roboto.xml" value="0.28020833333333334" />
         <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/activity_applepie.xml" value="0.25" />
         <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/activity_omelette.xml" value="0.2" />
+        <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/activity_omelette.xml" value="0.16" />
         <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/activity_video_description.xml" value="0.25" />
         <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/fragment_blank.xml" value="0.25" />
         <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/fragment_blank1.xml" value="0.24635416666666668" />
         <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/fragment_blank12.xml" value="0.4" />
-        <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/fragment_blank_fragmentcarosouel2.xml" value="0.25" />
+        <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/fragment_blank_fragmentcarosouel2.xml" value="0.1" />
+        <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/fragment_buttonmain.xml" value="0.25" />
+        <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/fragment_nutrifrag.xml" value="0.10989583333333333" />
+        <entry key="..\:/Mobile_app_development/PracticeProject/app/src/main/res/layout/fragment_nutrition.xml" value="0.25" />
       </map>
     </option>
   </component>

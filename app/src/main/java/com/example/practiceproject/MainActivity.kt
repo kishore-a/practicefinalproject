@@ -16,22 +16,23 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val image= findViewById<ImageView>(R.id.imageView10)
-        val btn =findViewById<Button>(R.id.buttontest)
         val applepie=findViewById<ImageView>(R.id.imageView11)
         val button=findViewById<Button>(R.id.button2)
 
         image.setOnClickListener {
-            Log.i(TAG,"Hello from omelette")
+            Log.i(TAG,"Selected Omelette")
             val intent = Intent(this, Omelette::class.java)
             startActivity(intent)
 
         }
         applepie.setOnClickListener {
+            Log.i(TAG,"Selected Apple Pie")
             val intent1=Intent(this,Applepie::class.java)
             startActivity(intent1)
 
         }
         button.setOnClickListener {
+            Log.i(TAG,"Selected to view video")
             val intent2=Intent(this,VideoDescription::class.java)
             startActivity(intent2)
         }

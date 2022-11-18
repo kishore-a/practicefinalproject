@@ -2,7 +2,7 @@
     <string name="app_name" translatable="false">Practiceproject</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
-    <string name="addcomments">Add Comments</string>
+    <string name="addcomments">Add Comments : </string>
     <string name="ingredient">Ingredient :</string>
     <string name="nutrition">Nutrition :</string>
     <string name="calories">Calories</string>

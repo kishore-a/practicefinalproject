@@ -210,6 +210,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     tools:layout="@layout/fragment_blank12" />
+
             </LinearLayout>
 
             <androidx.fragment.app.FragmentContainerView
@@ -219,11 +220,16 @@
     android:name="com.example.practiceproject.BlankFragmentcarosouel2"
     tools:layout="@layout/fragment_blank_fragmentcarosouel2" />
 
+
+
             <Button
                 android:id="@+id/button2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Click for App Description Video" />
+
+
+
 
 
         </LinearLayout>

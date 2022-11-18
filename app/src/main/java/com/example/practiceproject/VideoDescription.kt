@@ -13,7 +13,7 @@ class VideoDescription : AppCompatActivity() {
         val mediaController= MediaController(this)
         val videView=findViewById<VideoView>(R.id.videoView)
         mediaController.setAnchorView(videView)
-        val offilineUri=Uri.parse("android.resource://$packageName/${R.raw.video}")
+        val offilineUri=Uri.parse("android.resource://$packageName/${R.raw.vid}")
         videView.setMediaController(mediaController)
         videView.setVideoURI(offilineUri)
         videView.start()
